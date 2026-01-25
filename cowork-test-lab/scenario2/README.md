@@ -18,7 +18,7 @@
 
 | Folder | Task | Inputs | Outputs |
 |--------|------|--------|---------|
-| [scenario1-messy-to-polished](./scenario1-messy-to-polished/) | Raw notes + data → Report, Slides, Spreadsheet | 3 files | 3 deliverables |
+| [scenario2-messy-to-polished](./scenario2-messy-to-polished/) | Raw notes + data → Report, Slides, Spreadsheet | 3 files | 3 deliverables |
 
 ---
 
