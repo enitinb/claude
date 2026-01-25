@@ -6,7 +6,13 @@
 
 ## What is Cowork?
 
-Cowork is Anthropic's agentic AI capability in Claude Desktop. Unlike standard chat where you prompt and wait for responses, Cowork can:
+What is Cowork?
+
+Cowork uses the same agentic architecture that powers Claude Code, now accessible within Claude Desktop and without opening the terminal. Instead of responding to prompts one at a time, Claude can take on complex, multi-step tasks and execute them on your behalf.
+
+With Cowork, you can describe an outcome, step away, and come back to finished work—formatted documents, organized files, synthesized research, and more.
+
+Unlike standard chat where you prompt and wait for responses, Cowork can:
 
 - **Take on multi-step tasks** and execute them autonomously
 - **Read and write local files** directly on your machine
