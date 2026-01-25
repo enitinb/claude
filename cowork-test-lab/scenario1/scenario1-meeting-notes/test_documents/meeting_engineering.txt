@@ -1,0 +1,21 @@
+MEETING: Engineering Sync
+Date: Jan 14, 2025
+Attendees: Mike (Eng Lead), Jake (Backend)
+
+MIKE: We're doing API upgrade. What's the risk?
+
+JAKE: Big issue — current auth tokens won't work. Every customer needs new credentials.
+
+MIKE: That'll cause support tickets.
+
+JAKE: Also, I found the actual bug causing enterprise complaints. It's just a rate limiting config issue. Two-day fix.
+
+MIKE: Wait — we can fix that without the full upgrade?
+
+JAKE: Yes. Quick config change.
+
+MIKE: That changes everything. We could do mobile instead. I need to tell Sarah.
+
+ACTION ITEMS:
+- Jake: Document the quick fix option (due Jan 15)
+- Mike: Talk to Sarah today

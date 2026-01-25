@@ -1,0 +1,10 @@
+My Notes - Jan 15
+
+Jake found the enterprise issue is just a config bug. 2-day fix vs 6-week project.
+
+If we do quick fix, we could do mobile in Q1 instead. Lisa would be thrilled.
+
+Problem: Sarah already told enterprise accounts we're doing a "major upgrade."
+Walking that back might look bad.
+
+I think we should do quick fix AND mobile. Best of both worlds.

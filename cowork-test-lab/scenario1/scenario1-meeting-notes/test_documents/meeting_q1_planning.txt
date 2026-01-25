@@ -1,0 +1,22 @@
+MEETING: Q1 Planning
+Date: Jan 10, 2025
+Attendees: Sarah (PM), Mike (Eng), Lisa (Design)
+
+SARAH: We need to pick between mobile redesign or API upgrade. Only one this quarter.
+
+MIKE: API is urgent — three enterprise accounts ($50K/month combined) threatened to leave.
+
+LISA: But mobile NPS is 23 points lower than desktop. Users hate the app.
+
+SARAH: How long is API fix?
+
+MIKE: Six weeks minimum. Breaking change needs migration support.
+
+LISA: Mobile is eight weeks but affects more users.
+
+SARAH: Let's do API first. Can't lose enterprise accounts. Mobile goes to Q2.
+
+ACTION ITEMS:
+- Mike: Start API planning (due Jan 15)
+- Lisa: Document mobile requirements for Q2 (due Jan 20)
+- Sarah: Tell enterprise accounts about timeline (due Jan 12)

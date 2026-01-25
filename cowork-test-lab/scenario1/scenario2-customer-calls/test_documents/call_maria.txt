@@ -1,0 +1,19 @@
+CALL: Maria Chen | Pro Plan ($99/mo)
+Date: Jan 16, 2025
+
+AGENT: How can I help?
+
+MARIA: Can I add another user?
+
+AGENT: Sure! Pro includes 5 users, you have 2. I'll add one now.
+
+MARIA: Thanks. We're growing — what if we need more than 5?
+
+AGENT: Business plan has 20 users for $199/mo, plus API access.
+
+MARIA: API would be great for CRM integration. Let me talk to my boss.
+
+AGENT: I'll send a comparison sheet. Happy to help when ready.
+
+---
+NOTES: Added user. Interested in Business plan for API. Follow up in 1 week.

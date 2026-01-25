@@ -1,0 +1,19 @@
+CALL: John Davis | Starter Plan ($49/mo)
+Date: Jan 16, 2025
+
+AGENT: How can I help?
+
+JOHN: Export is broken. Trying for an hour to download my contacts.
+
+AGENT: What error do you see?
+
+JOHN: Times out. I only have 500 contacts.
+
+AGENT: I see — Starter plan has 200-contact export limit. You'd need Pro for larger exports.
+
+JOHN: That wasn't mentioned when I signed up. Not happy.
+
+AGENT: I can do a manual export as one-time courtesy. You'll get it in 10 minutes.
+
+---
+NOTES: Frustrated about limits. Churn risk. Renewal: Feb 15.

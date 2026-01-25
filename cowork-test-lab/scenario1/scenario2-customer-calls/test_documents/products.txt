@@ -1,0 +1,5 @@
+PRODUCT PLANS
+
+Starter ($49/mo): 200 contacts, 2 users, basic export
+Pro ($99/mo): 2000 contacts, 5 users, full export  
+Business ($199/mo): 10000 contacts, 20 users, API access
