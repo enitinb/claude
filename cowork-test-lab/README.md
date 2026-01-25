@@ -34,9 +34,11 @@ Each scenario includes synthetic test data, setup scripts, prompts, and expected
 
 ```
 cowork-test-lab/
-└── scenario1/                          # Knowledge Synthesis
-    ├── scenario1-meeting-notes/        # 3 docs → executive summary
-    └── scenario2-customer-calls/       # 4 docs → customer insights
+├── scenario1/                          # Knowledge Synthesis
+│   ├── scenario1-meeting-notes/        # 3 docs → executive summary
+│   └── scenario2-customer-calls/       # 4 docs → customer insights
+└── scenario2/                          # Messy → Polished Outputs
+    └── scenario1-messy-to-polished/    # 3 rough files → report, slides, spreadsheet
 ```
 
 ---

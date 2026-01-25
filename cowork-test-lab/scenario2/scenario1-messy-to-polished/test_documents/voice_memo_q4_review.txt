@@ -1,0 +1,18 @@
+Voice Memo - Q4 Review Thoughts
+Recorded: Jan 12, 2025
+
+Ok so Q4 was actually pretty good... revenue hit $2.4M which is like 18% above target. The sales team crushed it in December especially.
+
+Um, the new enterprise deals — we closed Acme Corp finally, that's $500K ARR. And TechStart came in at $180K. Those two alone made the quarter.
+
+Customer churn is still a problem though. We lost 12 accounts, mostly smaller ones but still. Sarah thinks it's the onboarding — people don't understand the product in the first 30 days and give up.
+
+What else... hiring is behind. We wanted 5 engineers by year end, only got 3. Budget is fine, just can't find the right people. 
+
+Marketing spend was $400K, which is over budget by like $50K but the ROI was good so probably fine.
+
+Oh and NPS went up to 42 from 38. Product team should feel good about that.
+
+For next quarter... Jake wants to focus on mobile app, Lisa wants API improvements for enterprise. Need to decide. Probably mobile is the right call given the churn issue.
+
+That's it I think. Need to make this into slides for Monday.

@@ -1,0 +1,4 @@
+month,revenue,target,new_deals,churned,marketing_spend
+Oct,720000,680000,4,3,120000
+Nov,780000,700000,5,4,130000
+Dec,900000,650000,8,5,150000

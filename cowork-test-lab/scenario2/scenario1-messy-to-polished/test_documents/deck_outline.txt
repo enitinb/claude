@@ -1,0 +1,18 @@
+Q4 Board Deck - Rough Outline
+
+- revenue numbers (get from spreadsheet)
+- big wins: Acme, TechStart
+- churn problem — need to address
+- hiring update (3 of 5)
+- NPS improvement
+- Q1 priorities: mobile vs API debate
+- budget stuff — marketing over but ok
+
+Slides needed:
+1. summary / headline
+2. revenue chart
+3. wins
+4. challenges  
+5. next quarter
+
+Keep it short, max 10 min presentation
