@@ -1,6 +1,6 @@
 # 🧪 Cowork Test Lab
 
-**Simple test scenarios for evaluating [Claude Cowork](https://support.anthropic.com/en/articles/11182706-getting-started-with-cowork).**
+**Simple test scenarios for evaluating [Claude Cowork](https://support.claude.com/en/articles/13345190-getting-started-with-cowork).**
 
 ---
 
@@ -57,15 +57,15 @@ Then: Claude Desktop → Cowork mode → Run the prompt from README
 
 ## Requirements
 
-- macOS + [Claude Desktop](https://claude.ai/download)
+- macOS + [Claude Desktop](https://claude.com/download)
 - Paid Claude plan (Pro, Max, Team, Enterprise)
 
 ---
 
 ## Resources
 
-- [Getting Started with Cowork](https://support.anthropic.com/en/articles/11182706-getting-started-with-cowork)
-- [Claude Desktop Download](https://claude.ai/download)
+- [Getting Started with Cowork](https://support.claude.com/en/articles/13345190-getting-started-with-cowork)
+- [Claude Desktop Download](https://claude.com/download)
 
 ---
 
