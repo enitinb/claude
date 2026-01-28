@@ -1,22 +1,22 @@
 # Scenario 3: Data Workflow
 
-**1 messy CSV → Full analysis in Excel workbook**
+**1 messy CSV → Cleaned, analyzed, charted Excel workbook**
 
 ---
 
-## Document
+## Documents
 
 | File | Content |
 |------|---------|
-| `sales_data.csv` | Q1 sales data with intentional issues |
+| `sales_data.csv` | 25 rows of Q1 sales with data issues |
 
-### Data Issues to Find
+### Issues Hidden in Data
 
 | Issue | Example |
 |-------|---------|
-| Inconsistent casing | "North" vs "NORTH" vs "north" |
-| Missing value | Row with blank units |
-| Negative revenue | -1950 (likely data entry error) |
+| Inconsistent casing | "North" vs "NORTH" |
+| Missing value | Blank units field |
+| Negative revenue | -1950 (error) |
 | Outlier | 500 units (10x normal) |
 | Zero row | 0 units, 0 revenue |
 
@@ -33,33 +33,27 @@ chmod +x setup.sh && ./setup.sh
 ## Prompt
 
 ```
-Analyze the sales data in the inputs folder end-to-end:
+Analyze this dataset end-to-end:
 
 1. Clean and normalize the data (document what you changed)
 2. Identify outliers and anomalies with statistical justification
 3. Summarize trends and key insights
 4. Generate 3-4 charts suitable for an executive presentation
-5. Output everything into a single Excel workbook with tabs:
-   - Raw (original data)
-   - Cleaned (with change log)
-   - Analysis (stats, outliers, insights)
-   - Charts
+5. Output everything into a single Excel workbook with tabs for raw, cleaned, analysis, and charts
 
 Save to outputs folder.
 ```
 
 ---
 
-## What to Verify
+## What to Evaluate
 
-| Check | What to Look For |
-|-------|------------------|
-| **Sequencing** | Did it clean before analyzing? |
-| **Normalization** | Are regions standardized (North, South, East, West)? |
-| **Outliers Found** | 500 units flagged? Negative revenue flagged? |
-| **Method Named** | Does it say "IQR" or "z-score" or "standard deviations"? |
-| **Change Log** | Can you see exactly what was modified? |
-| **Charts Work** | Are they actual Excel charts, not images? |
+| Dimension | What to Watch |
+|-----------|---------------|
+| **Workflow sequencing** | Does it clean *before* analyzing? Does it explain the sequence? |
+| **Statistical rigor** | Are outlier methods named (IQR, z-score)? Are thresholds justified? |
+| **Transparency** | Does it document transformations, or just silently change data? |
+| **Output usability** | Can you actually use the charts, or do they need rework? |
 
 ---
 
@@ -67,12 +61,12 @@ Save to outputs folder.
 
 | # | Cowork Should Find |
 |---|-------------------|
-| 1 | Total revenue ~$82K (after cleaning) |
-| 2 | North region is top performer |
-| 3 | Widget C has highest margin |
-| 4 | Bob's 500-unit entry is anomaly (10x his average) |
-| 5 | One negative revenue needs correction |
-| 6 | Alice is most consistent performer |
+| 1 | Regions normalized (North, South, East, West) |
+| 2 | Bob's 500-unit entry flagged as outlier (statistical method named) |
+| 3 | Negative revenue flagged and corrected |
+| 4 | North region is top performer |
+| 5 | Widget C has highest margin |
+| 6 | Change log shows exactly what was modified |
 
 ---
 
