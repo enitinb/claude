@@ -41,8 +41,10 @@ cowork-test-lab/
 ├── scenario1/                          # Knowledge Synthesis
 │   ├── scenario1-meeting-notes/        # 3 docs → executive summary
 │   └── scenario1-customer-calls/       # 4 docs → customer insights
-└── scenario2/                          # Messy → Polished Outputs
-    └── scenario2-messy-to-polished/    # 3 rough files → report, slides, spreadsheet
+├── scenario2/                          # Messy → Polished Outputs
+│   └── scenario2-messy-to-polished/    # 3 rough files → report, slides, spreadsheet
+└── scenario3/                          # Autonomous Data Workflow
+    └── scenario3-data-workflow/        # 1 messy CSV → cleaned, analyzed, charted Excel
 ```
 
 ---
