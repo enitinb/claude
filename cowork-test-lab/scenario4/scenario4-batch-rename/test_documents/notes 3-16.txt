@@ -1,0 +1,21 @@
+Conference notes — Day 2
+========================
+
+Morning:
+- Workshop on prompt design for document automation — useful, mostly review
+- Caught the second half of the "AI-native ops" talk — slides will be online
+
+Sit-down with Mira (Halcyon Labs):
+- They're rebuilding their dev portal in Q2
+- Asked about co-marketing — said yes in principle, kick to BD next week
+- She mentioned a paper she's writing on workflow telemetry — want to read
+
+Lunch:
+- Skipped — caught up on email at Brightloom coworking
+
+Heading home — flight at 18:55. Print boarding pass.
+
+Action items:
+- BD intro: Mira Castellanos <-> our partnerships lead
+- Draft Q2 co-marketing one-pager
+- Decompress Sunday, board prep Monday

@@ -1,0 +1,19 @@
+RideHail — Trip Receipt
+=======================
+
+Date:   2026-03-14
+Driver: Marco S.
+Pickup: 4218 NE Halsey St, Portland OR  06:02
+Drop:   PDX Terminal — Departures      06:24
+
+Distance: 11.4 mi   |   Duration: 22 min
+
+Base fare ........  $14.50
+Distance .........  $18.20
+Time .............   $5.40
+Service fee ......   $2.00
+Tip ..............   $4.50
+                   ------
+TOTAL ............  $44.60
+
+Card ending 4421

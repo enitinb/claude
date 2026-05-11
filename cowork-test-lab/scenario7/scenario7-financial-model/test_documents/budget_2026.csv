@@ -1,0 +1,14 @@
+category,jan_budget,feb_budget,mar_budget,q1_budget,notes
+Revenue — products,1200000,1200000,1300000,3700000,Includes Q1 backlog ship-out
+Revenue — services,500000,520000,540000,1560000,Engineering services
+Revenue — recurring,320000,330000,340000,990000,Maintenance + annual contracts
+Cost of goods sold,900000,920000,960000,2780000,Materials + direct labor + inbound
+Salaries & benefits,850000,850000,850000,2550000,140 headcount, no Q1 hires
+Rent & facilities,50000,50000,50000,150000,Office rent + utilities
+Software,35000,35000,35000,105000,All tooling
+Marketing,50000,50000,50000,150000,Includes one trade show
+Travel,25000,25000,25000,75000,Customer visits + conferences
+Professional services,15000,15000,15000,45000,Legal + accounting + consulting
+Office supplies,5000,5000,5000,15000,
+Other expense,250,250,250,750,Bank fees
+Insurance,10000,10000,10000,30000,Smoothed monthly

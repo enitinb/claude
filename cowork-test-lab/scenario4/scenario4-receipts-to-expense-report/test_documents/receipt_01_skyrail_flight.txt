@@ -1,0 +1,20 @@
+SkyRail Air — Electronic Receipt
+================================
+
+Confirmation: SKR-7H42QP
+Passenger:    Alex Morgan
+Issued:       2026-03-08
+
+Itinerary
+---------
+2026-03-14  PDX -> SFO   Flight SR 412   Dep 07:25  Arr 09:18   Seat 14C
+2026-03-16  SFO -> PDX   Flight SR 419   Dep 18:55  Arr 20:51   Seat 22A
+
+Fare breakdown
+--------------
+  Base fare ..........  $412.00
+  Taxes & fees .......   $75.50
+  -----------------------------
+  Total charged ......  $487.50
+
+Payment: Corporate card ending 4421

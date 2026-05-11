@@ -1,0 +1,36 @@
+Meridian Kitchen & Bar
+======================
+2026-03-15  19:48
+Server: Devon  |  Table 7
+
+ITEM                            QTY   PRICE
+---------------------------------------------
+Roasted half chicken              1   $34.00
+Pan-seared salmon                 1   $36.00
+Mushroom risotto                  1   $28.00
+Cacio e pepe                      1   $26.00
+Side: charred broccolini          2   $18.00
+Side: heirloom tomato salad       1   $14.00
+House red — glass                 4   $52.00
+Sparkling water — large           2   $14.00
+Dessert: panna cotta              2   $20.00
+                                       -----
+Food & non-alc .....................  $190.00
+Wine ...............................   $52.00
+                                       -----
+Subtotal ...........................  $242.00
+Tax ................................   $19.36
+                                       -----
+Total ..............................  $261.36
+Tip (20%) ..........................   $52.27
+GRAND TOTAL ........................  $313.63
+
+Card ending 4421
+---
+[Handwritten on back of receipt:
+ Attendees:
+   - Alex Morgan (us)
+   - Priya Iyer (Nordvale Logistics)
+   - Devran Kaya (Nordvale Logistics)
+   - Mira Castellanos (Halcyon Labs)
+ ]

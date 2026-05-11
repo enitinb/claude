@@ -1,0 +1,39 @@
+PROSPECT CALL TRANSCRIPT
+========================
+Date: 2026-04-30
+Account: Hartwell Industries (fictional, mid-market manufacturer, ~140 employees)
+Stage: Evaluation — head-to-head with Quillshift
+Attendees: Jordan Reyes (us), Devran Kaya (prospect, IT Director)
+
+JORDAN: Thanks for making the time. Where are you in your evaluation right now?
+
+DEVRAN: We've narrowed to two — you and Quillshift. We're doing trials of both. The decision goes to my CFO by end of month.
+
+JORDAN: What does your CFO care about most?
+
+DEVRAN: Three things. One — does it actually save people time on the invoice and contract workflows. Two — what's the integration story with our existing stack, especially NetSuite and our HR system. Three — total cost, all-in for 80 seats.
+
+JORDAN: Got it. How would you describe your current take on the two?
+
+DEVRAN: Honestly, you're cheaper. Quillshift's quote was about 70% higher than yours per seat. But their integration list is twice as long. We use a lot of niche stuff and they had connectors for almost all of it.
+
+JORDAN: Which integrations are non-negotiable for you?
+
+DEVRAN: NetSuite, definitely. Slack. We have a homegrown PO system — both of you would need a custom connector for that. Microsoft 365.
+
+JORDAN: NetSuite, Slack, and Microsoft 365 we cover. The homegrown PO system would be a custom build — I can scope that.
+
+DEVRAN: One more thing — their support reputation worries me a little. I read some reviews about slow response times. But the product itself looked polished in the trial.
+
+JORDAN: We can pull together customer references on support if that helps.
+
+DEVRAN: Yeah, that'd be useful. The other thing I'll flag — my CFO read about Quillshift's funding round and that's actually a negative for him. He thinks they're going to push to monetize hard.
+
+JORDAN: Understood. Let me follow up by Friday with the connector scoping and three customer references on support. Anything else?
+
+DEVRAN: That works. We're moving fast on this one.
+
+---
+END CALL.
+NOTES: Strong indicator we're in front. CFO is the decision-maker. Pricing
+       and support are tailwinds for us. Integration list is the blocker.

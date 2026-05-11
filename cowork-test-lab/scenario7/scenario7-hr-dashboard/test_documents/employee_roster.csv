@@ -1,0 +1,26 @@
+employee_id,name,role,level,department,hire_date,salary_usd,manager_id
+E-001,Adesina Okafor,Engineering Manager,L2,Engineering,2021-08-16,225000,
+E-002,Priya Iyer,Software Engineer,L4,Engineering,2022-04-04,168000,E-001
+E-003,Devran Kaya,Software Engineer,L4,Engineering,2023-01-09,158000,E-001
+E-004,Mira Castellanos,Software Engineer,L3,Engineering,2023-06-12,135000,E-001
+E-005,Sam Linnett,Software Engineer,L3,Engineering,2024-02-20,128000,E-001
+E-006,Jordan Reyes,Software Engineer,L2,Engineering,2024-09-03,108000,E-001
+E-007,Riley Lim,Software Engineer,L2,Engineering,2024-11-18,98000,E-001
+E-008,Tomas Aalto,Software Engineer,L5,Engineering,2020-03-30,205000,E-009
+E-009,Imogen Wren,Engineering Manager,L1,Engineering,2022-11-07,182000,
+E-010,Kemi Adeyemi,Software Engineer,L1,Engineering,2025-06-09,84000,E-009
+E-011,Tessa Bramble,VP Product,L3,Product,2021-05-10,212000,
+E-012,Marco Salerno,Product Manager,L2,Product,2023-08-14,154000,E-011
+E-013,Linh Tran,Product Manager,L1,Product,2024-04-22,118000,E-011
+E-014,Sofia Karras,Senior Designer,L2,Design,2022-09-19,148000,E-011
+E-015,Bruno Halversen,Designer,L1,Design,2024-07-08,102000,E-014
+E-016,Eloise Marchetti,Account Executive,L3,Sales,2021-10-11,162000,E-017
+E-017,Devon Astor,VP Sales,L3,Sales,2020-06-22,235000,
+E-018,Ari Nakahara,Account Executive,L2,Sales,2023-11-30,128000,E-017
+E-019,Rashid Mahmoud,Account Executive,L1,Sales,2024-08-05,94000,E-017
+E-020,Camille Lefevre,Account Executive,L2,Sales,2024-05-17,118000,E-017
+E-021,Hilde Lindqvist,Marketing Manager,L3,Marketing,2022-03-08,138000,
+E-022,Bea Castellanos,Marketing Specialist,L2,Marketing,2023-09-25,120000,E-021
+E-023,Owen Whitford,Operations Manager,L3,Operations,2022-12-14,142000,
+E-024,Nadia Petrov,Operations Specialist,L2,Operations,2024-01-29,105000,E-023
+E-025,Wren Brooke,Operations Specialist,L2,Operations,2024-10-02,98000,E-023

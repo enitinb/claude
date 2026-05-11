@@ -1,0 +1,76 @@
+transaction_id,date,vendor_or_customer,description,account_code,amount
+T-2026-001,2026-01-02,Stagecraft Office Supplies,Q1 supply order,6070,-1850
+T-2026-002,2026-01-03,Marigold Lane Catering,Sales kickoff catering,6050,-3200
+T-2026-003,2026-01-05,Acme Components,Raw materials lot 2026-01-A,5000,-42500
+T-2026-004,2026-01-06,Cloudshore Hosting,Cloud hosting — Jan,6030,-8200
+T-2026-005,2026-01-06,Bramble & Finch LLP,Legal retainer — Jan,6060,-5000
+T-2026-006,2026-01-07,Nordvale Logistics,Inbound freight — Jan,5020,-3850
+T-2026-007,2026-01-08,Steelhead Insurance,Q1 commercial insurance,7010,-30000
+T-2026-008,2026-01-09,Hartwell Payroll,Salaries — Jan run 1,6000,-425000
+T-2026-009,2026-01-10,Cedarcrest Properties,Office rent — Jan,6010,-42000
+T-2026-010,2026-01-12,Brightside Utilities,Utilities — Dec billing,6020,-8200
+T-2026-011,2026-01-12,Forge & Anvil Marketing,Trade show booth deposit,6040,-28000
+T-2026-012,2026-01-14,Vintage Trade Group,Customer payment — Q1 product order,4000,165000
+T-2026-013,2026-01-15,GlobalNet Software,GlobalNet subs — Jan,6030,-4800
+T-2026-014,2026-01-15,Linkbright Marketing,Programmatic ads — Jan,6040,-12500
+T-2026-015,2026-01-16,Riverbend Industries,Customer payment — service engagement,4010,82000
+T-2026-016,2026-01-19,Greylane Bank,Wire & ACH fees — Jan,7000,-185
+T-2026-017,2026-01-20,Cooper & Sons Inc,Materials lot 2026-01-B,5000,-38400
+T-2026-018,2026-01-21,RideHail Business,Customer visit — west coast,6050,-2150
+T-2026-019,2026-01-22,Hartwell Payroll,Salaries — Jan run 2,6000,-428000
+T-2026-020,2026-01-22,Hartwell Payroll,Salaries — Jan run 2,6000,-428000
+T-2026-021,2026-01-26,Vintage Trade Group,Customer maintenance — Jan,4020,18500
+T-2026-022,2026-01-27,Halcyon Labs,Halcyon analytics — Jan,6030,-2400
+T-2026-023,2026-01-28,Penumbra Insights,Industry research subscription,6030,-7200
+T-2026-024,2026-01-28,Stagecraft Office Supplies,Ergonomic chair order,6070,-2200
+T-2026-025,2026-01-30,Bayshore Industrial,Customer product order,4000,240000
+T-2026-026,2026-01-31,Brightloom Coworking,Sales offsite — full day,6050,-1800
+T-2026-027,2026-02-02,Cloudshore Hosting,Cloud hosting — Feb,6030,-8200
+T-2026-028,2026-02-03,Bramble & Finch LLP,Legal retainer — Feb,6060,-5000
+T-2026-029,2026-02-03,Forge & Anvil Marketing,Trade show — booth balance + design,6040,-32000
+T-2026-030,2026-02-05,Marigold Lane Catering,Board meeting lunch,6050,-1850
+T-2026-031,2026-02-06,Acme Components,Raw materials — Feb,5000,-45000
+T-2026-032,2026-02-06,Nordvale Logistics,Inbound freight — Feb,5020,-4100
+T-2026-033,2026-02-08,Cedarcrest Properties,Office rent — Feb,6010,-42000
+T-2026-034,2026-02-09,Hartwell Payroll,Salaries — Feb run 1,6000,-430000
+T-2026-035,2026-02-10,Brightside Utilities,Utilities — Jan billing,6020,-8400
+T-2026-036,2026-02-11,Linkbright Marketing,Programmatic ads — Feb,6040,-13500
+T-2026-037,2026-02-12,Vintage Trade Group,Customer maintenance — Feb,4020,18500
+T-2026-038,2026-02-13,Beacon Engineering,Customer service contract billing,4010,88000
+T-2026-039,2026-02-15,GlobalNet Software,GlobalNet subs — Feb,6030,-4800
+T-2026-040,2026-02-15,Loom + Wire Studios,Brand refresh — kickoff invoice,6040,-25000
+T-2026-041,2026-02-16,Streamspace,Streamspace project mgmt sub,6030,-1950
+T-2026-042,2026-02-17,RideHail Business,Customer visit — Feb (limited travel),6050,-980
+T-2026-043,2026-02-18,,Wire transfer — vendor TBD,,-8500
+T-2026-044,2026-02-20,Halcyon Labs,Halcyon analytics — Feb,6030,-2400
+T-2026-045,2026-02-22,Bayshore Industrial,Customer follow-on order,4000,185000
+T-2026-046,2026-02-23,Hartwell Payroll,Salaries — Feb run 2,6000,-432000
+T-2026-047,2026-02-25,PivotEdge Consulting,Strategy consultant — Feb,6060,-18500
+T-2026-048,2026-02-26,Greylane Bank,Wire & ACH fees — Feb,7000,-210
+T-2026-049,2026-02-27,Stagecraft Office Supplies,Q1 supply replenish,6070,-1450
+T-2026-050,2026-03-02,Cloudshore Hosting,Cloud hosting — Mar,6030,-8400
+T-2026-051,2026-03-03,Acme Components,Materials — Mar,5000,-47500
+T-2026-052,2026-03-04,Bramble & Finch LLP,Legal retainer — Mar,6060,-5000
+T-2026-053,2026-03-05,Marigold Lane Catering,Customer dinner — Bayshore visit,6050,-2400
+T-2026-054,2026-03-05,Forge & Anvil Marketing,March trade show — agency fees,6040,-35000
+T-2026-055,2026-03-06,Cedarcrest Properties,Office rent — Mar,6010,-42000
+T-2026-056,2026-03-07,Nordvale Logisitcs,Inbound freight — Mar (vendor name typo),5020,-3950
+T-2026-057,2026-03-09,Hartwell Payroll,Salaries — Mar run 1,6000,-435000
+T-2026-058,2026-03-10,Brightside Utilities,Utilities — Feb billing,6020,-7900
+T-2026-059,2026-03-11,Linkbright Marketing,Programmatic ads — Mar,6040,-14500
+T-2026-060,2026-03-12,RideHail Business,Travel — Mar customer visits,6050,-1200
+T-2026-061,2026-03-13,Vintage Trade Group,Customer maintenance — Mar,4020,18500
+T-2026-062,2026-03-14,GlobalNet Software,GlobalNet subs — Mar,6030,-4800
+T-2026-063,2026-03-15,Streamspace,Streamspace sub — Mar,6030,-1950
+T-2026-064,2026-03-16,Riverbend Industries,Customer service follow-on,4010,72000
+T-2026-065,2026-03-17,Bayshore Industrial,Customer product order — Q1 final,4000,310000
+T-2026-066,2026-03-18,Penumbra Insights,Q2 advance subscription,6030,-7200
+T-2026-067,2026-03-20,Halcyon Labs,Halcyon analytics — Mar,6030,-2400
+T-2026-068,2026-03-22,Loom + Wire Studios,Brand refresh — milestone 1,6040,-18000
+T-2026-069,2026-03-23,Hartwell Payroll,Salaries — Mar run 2,6000,-437000
+T-2026-070,2026-03-25,PivotEdge Consulting,Strategy work — Mar,6060,-15000
+T-2026-071,2026-03-26,Stagecraft Office Supplies,Mar supply order,6070,-1650
+T-2026-072,2026-03-27,Greylane Bank,Wire & ACH fees — Mar,7000,-240
+T-2026-073,2026-03-28,Beacon Engineering,Customer service final invoice,4010,95000
+T-2026-074,2026-03-30,Hartwell Refund Credit,Refund — overpaid Feb invoice (vendor TBD),,3500
+T-2026-075,2026-03-31,Cooper & Sons Inc,Materials — final Mar,5000,-41000

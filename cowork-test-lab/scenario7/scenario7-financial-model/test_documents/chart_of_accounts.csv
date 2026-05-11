@@ -1,0 +1,17 @@
+account_code,account_name,category,type
+4000,Product sales,Revenue — products,Revenue
+4010,Service revenue,Revenue — services,Revenue
+4020,Maintenance contracts,Revenue — recurring,Revenue
+5000,Materials & components,Cost of goods sold,COGS
+5010,Direct labor,Cost of goods sold,COGS
+5020,Inbound freight,Cost of goods sold,COGS
+6000,Salaries & benefits,Salaries & benefits,Operating expense
+6010,Office rent,Rent & facilities,Operating expense
+6020,Utilities,Rent & facilities,Operating expense
+6030,Software subscriptions,Software,Operating expense
+6040,Marketing & advertising,Marketing,Operating expense
+6050,Travel & entertainment,Travel,Operating expense
+6060,Professional services,Professional services,Operating expense
+6070,Office supplies,Office supplies,Operating expense
+7000,Bank & finance fees,Other expense,Other
+7010,Insurance,Insurance,Other

@@ -1,0 +1,21 @@
+Conference notes — Day 1
+========================
+
+Keynote (morning):
+- Talked about document workflow automation as the unlock for SMB productivity
+- Stat I want to look up: "76% of knowledge worker time is on document tasks"
+- Demo of the Halcyon Labs integration was impressive — async file ops
+
+Panel: SMB sales motion
+- Devran K. (Nordvale): land-and-expand only works if onboarding is real
+- Mira C. (Halcyon): partner channel is the unlock, not direct
+- My takeaway: our motion is too direct, revisit Q3 plan
+
+Hallway chats:
+- Priya I. (Nordvale) — open to integration scope conversation, set up coffee 10:30
+- Quick chat w/ someone from Brightloom about coworking space partnerships
+
+To follow up:
+- Send Priya our API doc
+- Pull onboarding metrics for the Q2 review
+- Read the Halcyon 2026 whitepaper before Monday

@@ -43,8 +43,21 @@ cowork-test-lab/
 │   └── scenario1-customer-calls/       # 4 docs → customer insights
 ├── scenario2/                          # Messy → Polished Outputs
 │   └── scenario2-messy-to-polished/    # 3 rough files → report, slides, spreadsheet
-└── scenario3/                          # Autonomous Data Workflow
-    └── scenario3-data-workflow/        # 1 messy CSV → cleaned, analyzed, charted Excel
+├── scenario3/                          # Autonomous Data Workflow
+│   └── scenario3-data-workflow/        # 1 messy CSV → cleaned, analyzed, charted Excel
+├── scenario4/                          # File & Document Management
+│   ├── scenario4-organize-downloads/           # 22 mixed files → categorized structure
+│   ├── scenario4-receipts-to-expense-report/   # 8 receipts + policy → expense report
+│   └── scenario4-batch-rename/                 # 12 inconsistent names → unified naming
+├── scenario5/                          # Research Synthesis
+│   ├── scenario5-market-research/      # 6 sources → executive briefing
+│   └── scenario5-competitive-intel/    # 6 sources → competitive battlecard
+├── scenario6/                          # Personal Knowledge Synthesis
+│   ├── scenario6-journal-synthesis/    # 14 daily entries → patterns
+│   └── scenario6-reading-highlights/   # 5 sources → connected synthesis
+└── scenario7/                          # Advanced Spreadsheet Engineering
+    ├── scenario7-financial-model/      # transactions + COA + budget → Q1 P&L
+    └── scenario7-hr-dashboard/         # roster + bands + scores → HR dashboard
 ```
 
 ---

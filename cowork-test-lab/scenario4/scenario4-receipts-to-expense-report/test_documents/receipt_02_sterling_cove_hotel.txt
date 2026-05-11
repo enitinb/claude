@@ -1,0 +1,22 @@
+Sterling Cove Hotel — Guest Folio
+=================================
+
+Guest:        Alex Morgan
+Confirmation: SCH-2026-09814
+Check-in:     2026-03-14  15:42
+Check-out:    2026-03-16  10:18
+Room:         412 — King Standard
+
+Charges
+-------
+2026-03-14  Room rate, night 1 ........  $269.00
+2026-03-14  Occupancy tax & fees ......   $38.41
+2026-03-15  Room rate, night 2 ........  $269.00
+2026-03-15  Occupancy tax & fees ......   $38.41
+2026-03-15  In-room breakfast .........   $24.18
+2026-03-15  Minibar (water x2) ........    $9.00
+                                         -------
+              Subtotal .................  $648.00
+              Total folio .............. $647.00
+
+(Payment of $647.00 charged to card ending 4421 on 2026-03-16.)
