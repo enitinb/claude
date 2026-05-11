@@ -1,0 +1,37 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <h1 class="brand">Study Tracker</h1>
+  <div class="subtitle" id="subtitle">Save this page</div>
+  <div id="existing-notice" hidden></div>
+  <form id="save-form">
+    <label for="title">Title</label>
+    <input id="title" required>
+
+    <label for="url">URL</label>
+    <input id="url" readonly>
+
+    <label for="tags">Tags</label>
+    <input id="tags" placeholder="comma, separated">
+
+    <label for="notes">Notes</label>
+    <textarea id="notes" placeholder="Why are you saving this?"></textarea>
+
+    <div class="row">
+      <select id="status">
+        <option value="queued">Queued</option>
+        <option value="studying">Studying</option>
+        <option value="done">Done</option>
+      </select>
+      <button type="submit" id="submit-btn">Save</button>
+    </div>
+    <div id="msg"></div>
+    <a id="open-dashboard" href="#">Open dashboard →</a>
+  </form>
+  <script type="module" src="popup.js"></script>
+</body>
+</html>

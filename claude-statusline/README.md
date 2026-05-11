@@ -19,7 +19,11 @@ The percentage is read directly from the JSON Claude Code passes to status-line 
 
 ## Install
 
+Two copy-paste blocks. No JSON editing needed — `jq` handles the merge safely and preserves any existing settings.
+
 ### 1. Place the script
+
+From inside this repo folder:
 
 ```sh
 mkdir -p ~/.claude
@@ -27,44 +31,40 @@ cp statusline-command.sh ~/.claude/statusline-command.sh
 chmod +x ~/.claude/statusline-command.sh
 ```
 
-### 2. Tell Claude Code to use it
+### 2. Wire it up in `settings.json`
 
-Open `~/.claude/settings.json` and add the `statusLine` key.
+```sh
+# back up existing settings (safety net)
+[ -f ~/.claude/settings.json ] && cp ~/.claude/settings.json ~/.claude/settings.json.bak
 
-**If the file doesn't exist**, create it with this content:
-
-```json
-{
-  "statusLine": {
-    "type": "command",
-    "command": "bash ~/.claude/statusline-command.sh"
-  }
-}
+# merge the statusLine entry — handles both "file exists" and "file missing" cases
+tmp=$(mktemp)
+jq '. + {statusLine: {type: "command", command: "bash ~/.claude/statusline-command.sh"}}' \
+  ~/.claude/settings.json 2>/dev/null > "$tmp" || \
+  echo '{"statusLine":{"type":"command","command":"bash ~/.claude/statusline-command.sh"}}' | jq '.' > "$tmp"
+mv "$tmp" ~/.claude/settings.json
 ```
 
-**If the file already exists**, merge the `statusLine` key into your existing JSON. Example before/after:
-
-Before:
-```json
-{
-  "theme": "dark"
-}
-```
-
-After:
-```json
-{
-  "theme": "dark",
-  "statusLine": {
-    "type": "command",
-    "command": "bash ~/.claude/statusline-command.sh"
-  }
-}
-```
+What this does:
+- Backs up your existing `settings.json` to `settings.json.bak`
+- If `settings.json` exists, **merges** the `statusLine` key in — preserving every other setting you have
+- If it doesn't exist, creates a new one with just the `statusLine` entry
+- `jq` validates the JSON, so a typo can't produce a broken file
 
 ### 3. Restart Claude Code
 
 Open a new session — the status line will appear at the bottom.
+
+### Prefer to edit by hand?
+
+Open `~/.claude/settings.json` and add this key (merging with whatever's already there):
+
+```json
+"statusLine": {
+  "type": "command",
+  "command": "bash ~/.claude/statusline-command.sh"
+}
+```
 
 ## Customize
 
@@ -89,9 +89,16 @@ Example — wider bar, more aggressive thresholds:
 
 ## Uninstall
 
-1. Delete the script: `rm ~/.claude/statusline-command.sh`
-2. Remove the `statusLine` key from `~/.claude/settings.json`
-3. Restart Claude Code
+```sh
+# remove the script
+rm -f ~/.claude/statusline-command.sh
+
+# strip the statusLine key out of settings.json
+tmp=$(mktemp)
+jq 'del(.statusLine)' ~/.claude/settings.json > "$tmp" && mv "$tmp" ~/.claude/settings.json
+```
+
+Then restart Claude Code.
 
 ## How it works
 

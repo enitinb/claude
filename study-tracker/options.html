@@ -1,0 +1,39 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Study Tracker</title>
+  <link rel="stylesheet" href="options.css">
+</head>
+<body>
+  <header>
+    <h1>Study Tracker</h1>
+    <p class="tagline">Everything you've meant to learn, in one place.</p>
+    <div class="actions">
+      <button id="pick-folder" class="primary">Pick backup folder…</button>
+      <button id="copy-queue">Copy queue</button>
+      <button id="backup-now">Backup now</button>
+      <button id="restore">Restore</button>
+      <button id="export">Export JSON</button>
+      <button id="import">Import JSON</button>
+      <input id="import-file" type="file" accept="application/json" hidden>
+    </div>
+    <div id="status-bar"></div>
+  </header>
+
+  <div class="controls">
+    <input id="search" placeholder="Search… try tag:react   status:done   url:youtube   is:revisited">
+    <select id="filter-status">
+      <option value="">All statuses</option>
+      <option value="queued">Queued</option>
+      <option value="studying">Studying</option>
+      <option value="done">Done</option>
+    </select>
+  </div>
+  <div id="count"></div>
+
+  <div id="items"></div>
+
+  <script type="module" src="options.js"></script>
+</body>
+</html>

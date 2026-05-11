@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Study Tracker",
+  "version": "0.1.0",
+  "description": "Track what you study from YouTube videos, articles, and links.",
+  "permissions": ["storage", "activeTab"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Save to Study Tracker"
+  },
+  "options_ui": {
+    "page": "options.html",
+    "open_in_tab": true
+  }
+}
